@@ -1,2 +1,9 @@
 # Exclude the environment/secrets file
 .env
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Virtual environment (if used)
+venv/
